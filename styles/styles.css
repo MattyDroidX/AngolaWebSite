@@ -107,6 +107,7 @@ li a:hover {
   height: 44px;
   gap: 10px;
   margin: 4%;
+  margin-left: 10%;
 }
 
 .left-hero a:hover {
@@ -127,10 +128,8 @@ li a:hover {
 }
 
 .right-hero img {
-  display: flex;
-  justify-content: flex-end;
-  width: 80%;
-  margin-left: 10%;
+  width: 70%;
+  margin-left: 15%;
 }
 
 /* LIST */
